@@ -1,0 +1,6 @@
+user_name = input("enter your name:")
+user_age = input("enter your age:")
+user_birth_place = input("enter your birth place:")
+print("user_name")
+print("user_age")
+print("user_birth_place")
